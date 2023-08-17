@@ -41,8 +41,6 @@ The first step I had to do was find a dataset. I used the celeA dataset and appl
 
 <img width="752" alt="Screenshot 2023-08-17 at 1 46 06 PM" src="https://github.com/greenchris10/DATA-6710-Final-Project/assets/120329214/5218e54c-b0ac-44df-9e13-610557fefe9f">
 
-<img width="776" alt="Screenshot 2023-08-17 at 1 35 04 PM" src="https://github.com/greenchris10/DATA-6710-Final-Project/assets/120329214/498b1fd1-38d2-4069-8caa-b9700345eb82">
-
 GAN Architecture from a high level:
 
 This wasn't exactly my architecture but similar idea-
